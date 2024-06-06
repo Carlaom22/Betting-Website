@@ -1,20 +1,17 @@
-Sure, here's the complete `README.md` content for your project:
-
-```markdown
 # Betting Website
 
 A web application that allows users to bet on sports teams. The standings are displayed using SofaScore, and users can place bets on which team will advance through the group stage.
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Dependencies](#dependencies)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
+- [Features]
+- [Installation]
+- [Usage]
+- [Folder Structure]
+- [Dependencies]
+- [Scripts]
+- [Contributing]
+- [License]
 
 ## Features
 
